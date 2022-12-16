@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author klimper
+ *
+ */
+module analogiarpg {
+}
